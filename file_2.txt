@@ -1,3 +1,4 @@
+Inserting new line for the gitHub lab
 Lab3 - making new file
 will merge this into master branch when finished.
 Hello World.
