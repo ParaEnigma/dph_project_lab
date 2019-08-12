@@ -2,3 +2,6 @@ Hello World.
 Git Lab 1
 Making a change for Git Lab2
 The End.
+This is a new end
+to your existing story
+to help make it better
